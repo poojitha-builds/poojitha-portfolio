@@ -1,0 +1,73 @@
+body{
+    margin:0;
+    background:#000;
+    font-family:Verdana,sans-serif;
+    color:white;
+}
+
+/* Main Portfolio Box */
+
+.main-box{
+    width:75%;
+    margin:40px auto;
+    padding:40px;
+    background:#111;
+    border:3px solid #8A2BE2;
+    border-radius:20px;
+}
+
+/* Name */
+
+h1{
+    text-align:center;
+    color:#d9b3ff;
+    font-size:50px;
+    margin-bottom:8px;
+}
+
+/* Designation */
+
+h3{
+    text-align:center;
+    color:silver;
+    font-style:italic;
+    margin-bottom:35px;
+}
+
+/* Section Cards */
+
+.card{
+    background:#8A2BE2;
+    color:white;
+    padding:25px;
+    margin:25px 0;
+    border-radius:15px;
+}
+
+/* Headings */
+
+.card h2{
+    color:white;
+    margin-top:0;
+}
+
+.card h3{
+    color:#f0f0f0;
+    text-align:left;
+    margin-bottom:15px;
+}
+
+/* Paragraph */
+
+.card p{
+    color:silver;
+    line-height:1.8;
+    text-align:justify;
+}
+
+/* Skills */
+
+.card ul{
+    color:silver;
+    line-height:2;
+}
